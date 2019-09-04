@@ -1,4 +1,4 @@
 fileignoreconfig:
 - filename: .travis.yml
-  checksum: 5064e503248d618fd865a8f7c9cd18dbc87a8ce565293e4bc39bada94bcfe88a
+  checksum: 8591a80ce0a248253e05b3f0260af04c36a1de02f250ebce0679ae9f019cb319
   ignore_detectors: []
