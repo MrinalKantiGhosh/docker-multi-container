@@ -1,22 +1,4 @@
 fileignoreconfig:
-- filename: .idea/sonarlint/issuestore/index.pb
-  checksum: 2f30f80fa62e388101e2bb557fca058b8c932d27cf9f6f7c840867ab181071a6
-  ignore_detectors: []
-- filename: client/README.md
-  checksum: 0871371c7adc336a33de08b35be6f35173b232d8a848e9bc34ecf635177cb73c
-  ignore_detectors: []
-- filename: client/package-lock.json
-  checksum: 42121e83262f4909bea3aebe252e8a1799df1bde85cab4e406f65e28b28f0948
-  ignore_detectors: []
-- filename: docker-compose.yml
-  checksum: 78d12c05bf21fd9229c87e70dede1afa79d19b0e1336961fc16fda551ab6177b
-  ignore_detectors: []
-- filename: server/index.js
-  checksum: e5d5d0bb861666127d0f7ff8dbd4d716c423acdc757c53107aa90b12b840c61b
-  ignore_detectors: []
-- filename: server/keys.js
-  checksum: c42f0ef7cae484872e1fe41c4dafd5397d2dfc3d7c04bdf18c6fc1eb513b04d2
-  ignore_detectors: []
-- filename: .idea/workspace.xml
-  checksum: 71fbfe207342bc52b86dd98189e1b1e66accef91e6e10b64ce9d5476931f3d40
+- filename: .travis.yml
+  checksum: 5064e503248d618fd865a8f7c9cd18dbc87a8ce565293e4bc39bada94bcfe88a
   ignore_detectors: []
